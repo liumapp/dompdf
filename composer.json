@@ -1,0 +1,19 @@
+{
+    "name": "liumapp/dompdf",
+    "type": "library",
+    "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
+    "homepage": "https://www.liumapp.com",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "liumapp",
+            "email": "liumapp.com@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["include/"]
+    },
+    "require": {
+        "phenx/php-font-lib": "0.2.*"
+    }
+}
