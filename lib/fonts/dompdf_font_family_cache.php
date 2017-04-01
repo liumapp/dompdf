@@ -92,10 +92,16 @@
     'italic' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed-Italic',
     'normal' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed',
   ),
-  'black' => array(
-    'normal' => DOMPDF_FONT_DIR . 'd70e7e86677891ea83d9d6fe678bb72a',
-    'bold' => DOMPDF_FONT_DIR . '018ca844c9b0134ba2f5e9c571e56d3f',
-    'bold_italic' => DOMPDF_FONT_DIR . 'c9ebd03d9067dc4edc70c50d81d6270b',
-    'italic' => DOMPDF_FONT_DIR . '24b25a8c48b301c6f85875cc89c77645',
+  'black-font' => array(
+    'normal' => DOMPDF_FONT_DIR . '0f04742c1351eacbf875c0b1ac257be2',
+    'bold' => DOMPDF_FONT_DIR . '0564a4487716bff285cd3811a51552f0',
+    'bold_italic' => DOMPDF_FONT_DIR . '65312eb8af8ac69ac2cbf13af81b7294',
+    'italic' => DOMPDF_FONT_DIR . '366189fd4a0687ec1dbcce2776952bed',
+  ),
+  'droidsans' => array(
+    'normal' => DOMPDF_FONT_DIR . '7cc0ab59398d015a38d0725646fd56dc',
+    'bold' => DOMPDF_FONT_DIR . '082cf33e28f27d05da0fcd0d2aabd579',
+    'bold_italic' => DOMPDF_FONT_DIR . '9ad2403c7ac30bceac4de1624f2284f3',
+    'italic' => DOMPDF_FONT_DIR . 'd2cbf80bccbb9a44ccb21e23afbf70ac',
   ),
 ) ?>
