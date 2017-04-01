@@ -13,8 +13,5 @@
     ],
     "autoload": {
         "classmap": ["include/"]
-    },
-    "require": {
-        "phenx/php-font-lib": "0.2.*"
     }
 }
