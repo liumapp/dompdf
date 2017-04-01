@@ -4,6 +4,7 @@
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://www.liumapp.com",
     "license": "LGPL",
+    "secure-http": false,
     "authors": [
         {
             "name": "liumapp",
