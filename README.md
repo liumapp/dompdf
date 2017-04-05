@@ -25,4 +25,4 @@ options:
    f则表示生成的pdf文件的名称
 input_file 要进行转换的html文件名 
 
-* 请将需要生成的html文件放在data目录下
+* 请将需要生成的html文件放在www/test/data目录下
